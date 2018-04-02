@@ -5,9 +5,7 @@ Developers Garden shortend as Devs-Garden is a platform through which we deliver
 
 ## interesting-world
 
-You give a word, we will tell it's world.
-
-Interesting World is intended to provide JSON repsonse for the given word, with the below information.
+You give a word, we will tell it's world.Interesting World is developed as an npm module which intended to provide JSON repsonse for the given word, with the below information.
 
   1. Language meaning/synonyms of the given word. (Initially for English)
   2. Image urls related to the word given.
