@@ -5,14 +5,14 @@ Developers Garden shortend as Devs-Garden is a platform through which we build/c
 We are experienced in automating the processes and creating custom Amazon Alexa skills for your businesses. We also guide/mentor the startups with respective to the techinicle aspects in building their products. So far we have delivered our services using Java, NodeJs, IBM Watson, Amazon Alexa, Dialaugeflow and RPA. contact us for more information and MVPs/POCs.
 
 ## Portfolio
-  Thought-Factory
-  Automating Process for Print Media using (Sikuli, Tesseract, Java)
-  Crypto coins value Skill for Amazon Alexa
-  Monica - Bot (A chatbot, which helps to assist you in many things)
-  Interesting-World (NPM module)
+  -   Thought-Factory
+  -   Automating Process for Print Media using (Sikuli, Tesseract, Java)
+  -   Crypto coins value Skill for Amazon Alexa
+  -   Monica - Bot (A chatbot, which helps to assist you in many things)
+  -   Interesting-World (NPM module)
 
 
-# interesting-world
+# Interesting-World
 
 You give a word, we will tell it's world.Interesting World is developed as an npm module which intended to provide JSON repsonse for the given word, with the below information.
 
