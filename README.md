@@ -10,6 +10,7 @@ We are experienced in automating the processes and creating custom Amazon Alexa 
   -   Crypto coins value Skill for Amazon Alexa
   -   Monica - Bot (A chatbot, which helps to assist you in many things)
   -   Interesting-World (NPM module)
+  -   IOT Usecases in Manufacturing Industry
 
 
 # Interesting-World
