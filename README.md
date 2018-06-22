@@ -9,7 +9,7 @@ We are experienced in automating the processes and creating custom Amazon Alexa 
   -   Automating Process for Print Media using (Sikuli, Tesseract, Java)
   -   Crypto coins value Skill for Amazon Alexa
   -   Monica - Bot (A chatbot, which helps to assist you in many things)
-  -   Interesting-World (NPM module) - Development Phase.
+  -   Interesting-World (NPM module - Still in Development Phase)
   -   IOT Use cases in Manufacturing Industry
 
 
